@@ -110,8 +110,19 @@ body.light-mode .descricao {
     max-height: 400px;
     width: auto;
     height: auto;
-    border-radius: 10px;
+    border-radius: 10px; 
     object-fit: cover;
 }
+.footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #ccc;
+    background-color: #222;
+    border-top: 1px solid #555;
+    border-radius: 0 0 8px 8px;
+}
+
 
 
